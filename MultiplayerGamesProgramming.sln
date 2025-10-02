@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{597B6B1B-EA2E-42DF-A08A-770333144A01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestInteger", "HighestInteger\HighestInteger.csproj", "{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{597B6B1B-EA2E-42DF-A08A-770333144A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{597B6B1B-EA2E-42DF-A08A-770333144A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{597B6B1B-EA2E-42DF-A08A-770333144A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
