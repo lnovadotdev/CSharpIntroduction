@@ -10,3 +10,4 @@ for (int i = 0; i < 10; i++)
         highestInput = number;
     }
 }
+Console.WriteLine("The highest integer is: " + highestInput);
