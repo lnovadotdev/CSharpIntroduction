@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestInteger", "HighestIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Integers", "10Integers\10Integers.csproj", "{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Addition.csproj", "{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
