@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Integers", "10Integers\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Addition.csproj", "{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionOverload", "AdditionOverload\AdditionOverload.csproj", "{F6F8E7DA-89A4-44D7-99F6-AF654F1B1692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4503C723-40B1-4BE5-8B91-3D97A7F0EDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F8E7DA-89A4-44D7-99F6-AF654F1B1692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F8E7DA-89A4-44D7-99F6-AF654F1B1692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F8E7DA-89A4-44D7-99F6-AF654F1B1692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F8E7DA-89A4-44D7-99F6-AF654F1B1692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
