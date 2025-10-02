@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestInteger", "HighestInteger\HighestInteger.csproj", "{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Integers", "10Integers\10Integers.csproj", "{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61F3196-EC62-4EA1-9B22-3E9722AAF10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57FD0A1-ACD1-408B-AF37-58587E57CBF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
